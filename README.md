@@ -1,6 +1,6 @@
 # iWeather
 
-iWeather allow users to gather information regarding the weather in their current location or to search for the current climate in any city in the United States. Using the Ionic framework which was closely built off of Angular has had great benifits in allowing one to build iOS, Android and Windows applications. 
+iWeather allows users to gather information regarding the weather in their current location or to search for the current climate in any city in the United States. Using the Ionic framework which was closely built off of Angular has had great benefits in allowing one to build iOS, Android and Windows applications. 
 
 ## Getting Started
 
