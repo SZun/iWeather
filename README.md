@@ -12,7 +12,7 @@ Make sure to install the latest version of node (10.6.0) and npm (6.2.0) gloabll
 ```
 $ npm i -g ionic@latest
 $ npm i -g node@latest
-$ npm i -g
+$ npm i -g npm@latest
 
 ```
 
